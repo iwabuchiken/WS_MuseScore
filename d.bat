@@ -6,4 +6,8 @@ REM taskkill /IM mscore.exe
 taskkill /IM MuseScore.exe
 taskkill /IM wish.exe
 
+taskkill /IM MIDIToMP3.exe
+
+taskkill /IM rosegarden.exe
+
 exit
